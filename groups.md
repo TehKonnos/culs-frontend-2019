@@ -1,9 +1,8 @@
 # Groups for Frontend
 
+Group of three
 ---
-
-Only group of only one
-
-Josef Pospíšil
-
+Konstantinos Zacharakis
+Alina Topchyi
+Anouk Mechain
 ---
