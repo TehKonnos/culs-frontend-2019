@@ -29,3 +29,9 @@ Tanim Sakibul Alom
 Yoginkumar Vaniya
 
 ---
+
+Group of three
+Konstantinos Zacharakis
+Alina Topchyi
+Anouk Mechain
+---
